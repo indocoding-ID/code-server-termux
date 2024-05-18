@@ -1,4 +1,4 @@
-# Install code-server android anda cukup dengan comand berikut
+# Install code-server di android anda cukup dengan comand berikut
 ```shell
 git clone https://github.com/indocoding-ID/code-server-termux.git code \
 ; cd code \
